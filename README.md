@@ -1,7 +1,7 @@
 
 # vue2后台管理系统
 基于vue2、vue-cli、elementUI、webpack、es6等实现
->预览地址：https://jasmine-na.github.io/vue2-element-admin/dist
+>预览地址：https://jasmine-na.github.io/vue2-element-admin/dist/
 ### **项目介绍**
 >1. 样式使用elementUI为主、bootstrap为辅，自动化工具使用webpack，js框架使用vue2；
 
