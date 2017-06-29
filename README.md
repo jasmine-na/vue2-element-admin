@@ -4,7 +4,7 @@
 >预览地址：https://jasmine-na.github.io/vue2-element-admin/dist/
 ### **项目介绍**
 >1. 样式使用elementUI为主、bootstrap为辅，自动化工具使用webpack，js框架使用vue2；
->2 axios
+>2. axios
 ### **功能/页面**
 >1. 使用elementUI-table搭建通知管理；
 >2. 实现功能：导出excel；
