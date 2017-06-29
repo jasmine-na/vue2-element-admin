@@ -1,7 +1,7 @@
 
 # vue2后台管理系统
 基于vue2、vue-cli、elementUI、webpack、es6等实现
->预览地址：https://jasmine-na.github.io/vue-element-admin-jojo
+>预览地址：https://jasmine-na.github.io/vue2-element-admin/dist
 ### **项目介绍**
 >1. 样式使用elementUI为主、bootstrap为辅，自动化工具使用webpack，js框架使用vue2；
 
@@ -13,7 +13,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/jasmine-na/vue-element-admin-jojo-demo.git
+git clone https://github.com/jasmine-na/vue2-element-admin.git
 
 # 下载依赖install dependencies
 npm install
