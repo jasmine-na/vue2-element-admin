@@ -20,6 +20,9 @@
             <el-menu-item index="/e404">
                 404
             </el-menu-item>
+            <el-menu-item index="/echarts">
+                echarts
+            </el-menu-item>
             <el-menu-item index="/user">
                 <i class="el-icon-setting"></i> 个人中心
             </el-menu-item>

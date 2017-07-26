@@ -7,6 +7,7 @@ import Department from '@/components/page/Department.vue'
 import User from '@/components/page/User.vue'
 import E404 from '@/components/page/E404.vue'
 import Excel from '@/components/page/Excel.vue'
+import Echarts from '@/components/page/Echarts.vue'
 
 import VueInit from '@/components/Blog/vue-init.vue'
 import ExportExcel from '@/components/Blog/exportExcel.vue'
@@ -25,7 +26,8 @@ export default new Router({
 	        { path: 'e404', component: E404 },
 	        { path: 'excel', component: Excel },
 	        { path: 'vueInit', component: VueInit },
-	        { path: 'exportExcel', component: ExportExcel }
+	        { path: 'exportExcel', component: ExportExcel },
+	        { path: 'echarts', component: Echarts }
 	      ]
     }
   ]
